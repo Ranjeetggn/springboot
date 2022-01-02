@@ -1,6 +1,5 @@
 # springboot
-git passwd: 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
-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
+
 
 1. installing springbootapplication from google cloud console
 ./mvnw clean install 
